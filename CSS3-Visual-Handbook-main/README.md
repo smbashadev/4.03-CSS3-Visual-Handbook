@@ -446,7 +446,7 @@ Please provide appropriate attribution if you reference or share this work.
 
 <div align="center">
 
-<a href="https://github.com/shaikbasha-dev">
+<a href="https://github.com/smbashadev">
 <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github">
 </a>
 
